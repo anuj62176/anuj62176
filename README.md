@@ -4,7 +4,7 @@
 I specialize in **Linux system administration, file systems, CLI tooling, and developer tutorials**. I author technical documentation and guides for a global audience at **It's FOSS**.
 
 🔗 **Published Work:** [itsfoss.com/author/anuj](https://itsfoss.com/author/anuj)  
-📂 **Full Portfolio Repo:** [github.com/YOUR_USERNAME/technical-writing-portfolio](https://github.com/YOUR_USERNAME/technical-writing-portfolio)
+📂 **Full Portfolio Repo:** [github.com/YOUR_USERNAME/technical-writing-portfolio](https://github.com/anuj62176/technical-writing-portfolio)
 
 ---
 
@@ -47,5 +47,5 @@ Here are a few selected guides I have written and published on *It's FOSS*:
 
 * 🌐 **Author Profile:** [itsfoss.com/author/anuj](https://itsfoss.com/author/anuj)
 * 📧 **Email:** [anuj62176@gmail.com](mailto:anuj62176@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/anujsharma-techwriter](https://linkedin.com/in/anujsharma-techwriter)
 * 📍 **Location:** Mandi, Himachal Pradesh, India
