@@ -4,7 +4,7 @@
 I specialize in **Linux system administration, file systems, CLI tooling, and developer tutorials**. I author technical documentation and guides for a global audience at **It's FOSS**.
 
 🔗 **Published Work:** [itsfoss.com/author/anuj](https://itsfoss.com/author/anuj)  
-📂 **Full Portfolio Repo:** [github.com/YOUR_USERNAME/technical-writing-portfolio](https://github.com/anuj62176/technical-writing-portfolio)
+📂 **Full Portfolio Repo:** [github.com/anuj62176/technical-writing-portfolio](https://github.com/anuj62176/technical-writing-portfolio)
 
 ---
 
